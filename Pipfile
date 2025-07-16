@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+pandas = "*"
+google-generativeai = "*"
+pillow = "*"
+fpdf = "*"
+xlsxwriter = "*"
+matplotlib = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
