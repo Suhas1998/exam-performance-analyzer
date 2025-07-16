@@ -1,5 +1,7 @@
 # Exam Performance Analyzer
 
+[View and test the deployed app here](https://exam-performance-analyzer-v1.streamlit.app/)
+
 Exam Performance Analyzer is a machine learning and LLM-based application that reads students' exam performance and provides detailed analysis by subject and sub-topic. The application is built with Streamlit for an interactive web interface.
 
 ## Features
